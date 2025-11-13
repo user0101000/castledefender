@@ -20,9 +20,7 @@ O Reino da Aurora viveu séculos de paz. No entanto, o necromante Zarthus desper
 
 ## 🎬 Vídeo do Jogo em Execução
 
-**ATENÇÃO:** O vídeo do jogo em execução está disponível para download. Por questões de privacidade, ele foi compactado e incluído diretamente no repositório.
-
-**Download do Vídeo:** [Clique Aqui para Baixar o Arquivo ZIP](Video/video_game_castle_defender.zip)
+**Link do vídeo:** [Google Drive](https://drive.google.com/file/d/1X95vww-il9REqthYh0sitUr4jDD3AIbK/view?usp=sharing).
 
 ## 📸 Screenshots do Jogo
 <img width="584" height="355" alt="print2" src="https://github.com/user-attachments/assets/5c04a136-82fe-4154-a305-338cd45bc8f8" />
