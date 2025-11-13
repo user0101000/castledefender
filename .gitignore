@@ -1,0 +1,35 @@
+# Unity: Ignorar arquivos de build, logs, e configurações locais
+
+# Build
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider / IDEs
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Cache
+/Assets/AssetStoreTools/
+/Assets/StreamingAssets/
+
+# Arquivos temporários e logs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.meta
+*.DS_Store
+*.gz
+*.tar
+*.zip
+*.rar
