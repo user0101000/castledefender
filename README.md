@@ -16,10 +16,6 @@ Um jogo de ação em terceira pessoa onde o jogador deve defender o castelo de o
 
 O Reino da Aurora viveu séculos de paz. No entanto, o necromante Zarthus despertou as hordas da floresta escura: esqueletos, lagartos gigantes e golens de pedra. Como o **último Cavaleiro Real** guardando o Castelo da Luz, seu objetivo é simples: sobreviver à noite e proteger o portão sagrado a todo custo.
 
-## 🎬 Vídeo do Jogo em Execução
-
-[Você deve fazer o upload do vídeo do jogo em execução para o YouTube ou similar, e inserir o link aqui.]
-
 **Vídeo do Jogo:**
 
 ## 🎬 Vídeo do Jogo em Execução
