@@ -35,10 +35,6 @@ O Reino da Aurora viveu séculos de paz. No entanto, o necromante Zarthus desper
 <img width="636" height="373" alt="print4" src="https://github.com/user-attachments/assets/df44646f-96aa-4943-b0af-3ce8ecf5e393" />
 <img width="603" height="365" alt="print3" src="https://github.com/user-attachments/assets/f2c3bd2b-01c6-41a5-a7ce-9b14a5f6e18d" />
 
-<img src="Prints/print1.jpg" width="300"> | <img src="Prints/print2.jpg" width="300"> | <img src="Prints/print3.jpg" width="300"> |
-
-<img src="Prints/print4.jpg" width="400"> <img src="Prints/print5.jpg" width="400">
-
 ## Feito por Blanca com o auxíliio das aulas do prof.º Márcio
 
 ## ⚙️ Tecnologias Utilizadas
